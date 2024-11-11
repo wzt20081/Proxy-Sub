@@ -2,3 +2,4 @@ proxies:
   - {name: 🇭🇰 Alike-HK->KR-74thpqnk, server: 141.11.219.209, port: 39227, type: vmess, uuid: 6d0c515a-4fc6-484f-a4b4-3b9a05401f6e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇭🇰 Alike-HK->MO-0v5p56mt, server: 141.11.219.209, port: 28630, type: vmess, uuid: 5d57e683-c71a-4df2-885f-99fdb30d97c0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 AWS-KR->JP-ifp6jh3r, server: biedazjyd.zhangwei.li, port: 39189, type: ss, cipher: aes-128-gcm, password: FlXNbPFFeVr+N+DiFKWNRCPO6jmswQUZyuDIV29OZkQ=, udp: true}
+  - {name: 🇰🇷 AWS-KR->NG-bx6xx6rf, server: mmt-shyd.iwe.la, port: 31308, type: ss, cipher: aes-128-gcm, password: sQPZTh7jQGWll9mMJevmXkFOHpY1DK3+4qBA3fESHuE=, udp: true}
