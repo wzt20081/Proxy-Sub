@@ -10,4 +10,4 @@ proxies:
   - {name: 🇸🇬 SGP Huawei Cloud-SG, server: default.sg.huawei.ddns.ad.989567.xyz, port: 44462, type: vmess, uuid: c3569114-c377-44db-8e27-366d0f79ac1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /login, headers: {Host: default.sg.huawei.ddns.ad.989567.xyz}}, udp: true}
   - {name: 🇬🇧 GBR Akile, server: default.uk.akile.ddns.ad.989567.xyz, port: 39911, type: vmess, uuid: 67232935-de5d-4d5d-8998-936c7084185c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: default.uk.akile.ddns.ad.989567.xyz}}, udp: true}
   - {name: 🇩🇪 DEU Wuyoucloud-DE, server: mmt.bjcu.donghui.tech, port: 34197, type: ss, cipher: aes-128-gcm, password: IF1LdAmq+rU3rSIkBNTGOXKWqNQo97VL5he+eExAj88=, udp: true}
-  - {name: 🇳🇬 NGA Haruka Cloud, server: biedazjyd.zhangwei.li, port: 14836, type: ss, cipher: aes-256-gcm, password: 5fb104fe-77b2-4a72-80f4-af1ef8dd6767, udp: true}
+  - {name: 🇳🇬 NGA Haruka Cloud, server: shcua.donghui.tech, port: 14836, type: ss, cipher: aes-256-gcm, password: 5fb104fe-77b2-4a72-80f4-af1ef8dd6767, udp: true}
