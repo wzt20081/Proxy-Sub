@@ -12,4 +12,4 @@ proxies:
   - {name: 🇸🇬 SGP Huawei Cloud, server: default.sg.huawei.ddns.ad.989567.xyz, port: 34247, tfo: true, type: vmess, uuid: b9959011-bfba-48f4-bbbe-736bf674aac4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: default.sg.huawei.ddns.ad.989567.xyz, network: ws, ws-opts: {path: /login, headers: {Host: default.sg.huawei.ddns.ad.989567.xyz}}, udp: true}  
   - {name: 🇺🇸 USA VmShell, server: mmt.bjcu.donghui.tech, port: 20879, tfo: true, type: ss, cipher: aes-128-gcm, password: QpuemktCN3B0JwmUD/slLJas6eZbnKaamLZioA82UFo=, udp: true}
   - {name: 🇩🇪 DEU Wuyoucloud, server: mmt.bjcu.donghui.tech, port: 34197, type: ss, cipher: aes-128-gcm, password: IF1LdAmq+rU3rSIkBNTGOXKWqNQo97VL5he+eExAj88=, udp: true}
-  - {name: NGA Haruka Cloud, server: shcua.donghui.tech, port: 14836, tfo: true, type: ss, cipher: aes-128-gcm, password: YX1SieTpVpImmCeEQ8ceRkXk7vGtX/1BZo+giXudaK0=, udp: true}
+  - {name: 🇳🇬 NGA Haruka Cloud, server: shcua.donghui.tech, port: 14836, tfo: true, type: ss, cipher: aes-128-gcm, password: YX1SieTpVpImmCeEQ8ceRkXk7vGtX/1BZo+giXudaK0=, udp: true}
