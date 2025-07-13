@@ -1,6 +1,0 @@
-proxies: 
-  - {"name":"🇳🇬 尼日利亚 IEPL [01] [Air]","server":"pop.air.1432.0tk8a3a1q4t94dler.com","port":5079,"type":"ss","cipher":"2022-blake3-aes-256-gcm","password":"mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:cFE0m9BstF9u9+Kk1Cwt94pxTup9hwDiYeR1qz8e4cM=","udp":true}
-  - {"name":"🇳🇬 尼日利亚 IEPL [02] [Air]","server":"pop.air.6432.0tk8a3a1q4t94dler.com","port":5079,"type":"ss","cipher":"2022-blake3-aes-256-gcm","password":"mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:cFE0m9BstF9u9+Kk1Cwt94pxTup9hwDiYeR1qz8e4cM=","udp":true}
-  - {"name":"🇳🇬 IPLC|尼日利亚01","server":"wy.xnh98d9c32om.com","port":24570,"type":"ss","cipher":"aes-128-gcm","password":"43ddef78-dd27-4e01-b6e5-dc8acf0d8aa3","udp":true}
-  - {"name":"🇳🇬 NGA 尼日利亚 FUN","server":"2dc608afc99297fc.cdn.jiashule.com","port":30068,"type":"vmess","uuid":"d3cab873-16f4-48eb-b9a8-fbb6af7e462e","alterId":0,"cipher":"auto","tls":false,"skip-cert-verify":true,"udp":true}
-  - {"name":"🇳🇬 尼日利亚02 NG | 1x","server":"sijiache1.nmslsbgfw.top","port":52054,"type":"ss","cipher":"aes-128-gcm","password":"fccd7155-c8d5-45cd-a043-06e17808a577","udp":true}
