@@ -1,0 +1,5 @@
+DOMAIN,device.three.com.hk
+DOMAIN,wlan.three.com.hk
+DOMAIN,datapath.three.com.hk
+IP-CIDR,124.217.186.49/32,no-resolve
+IP-CIDR,203.145.92.49/32,no-resolve
